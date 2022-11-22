@@ -1,5 +1,15 @@
 .header {
     display: inline;
+    background-color: black;
+    color: white;
+}
+
+.pageheader {
+    background-color: gray;
+}
+
+.footer {
+    background-color: black;
 }
 
 h1, h2, h3 {
