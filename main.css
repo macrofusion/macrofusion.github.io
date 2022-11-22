@@ -1,7 +1,12 @@
-.header, .footer {
+.header {
     display: inline;
     background-color: black;
     color: white;
+}
+
+.footer {
+    background-color: black;
+    color:white;
 }
 
 .pageheader, .ab-footer {
