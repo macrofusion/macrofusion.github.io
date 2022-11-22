@@ -1,10 +1,10 @@
-.header, .footer, .ab-footer {
+.header, .footer {
     display: inline;
     background-color: black;
     color: white;
 }
 
-.pageheader {
+.pageheader, .ab-footer {
     background-color: gray;
 }
 
