@@ -2,8 +2,9 @@
     background-color: #cccccc;
 }
 
-.measurements {
-    width: 0.25vw;
+img {
+    max-width: 50%;
+    height: auto;
 }
 
 ul {
