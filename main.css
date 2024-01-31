@@ -21,13 +21,11 @@
     color: red;
 }
 
-.content {
-    position: relative;
+.header {
+    position: fixed;
 }
 
 #pagetop {
-    position: absolute;
-    top: 0px;
     width: 100%;
     text-align: center;
     padding: 25% 0;
@@ -37,4 +35,4 @@
 .employees {
     text-align: center;
 }
-}
+
