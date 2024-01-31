@@ -48,6 +48,11 @@
     text-align: center;
 }
 
+.ecard {
+    width: 30%;
+    padding: 5%;
+}
+
 .divisions {
     display: flex;
     flex-wrap: wrap;
@@ -64,4 +69,12 @@
 
 .division-logo {
     width: 100%;
+}
+
+.section-title {
+    font-size: 64px;
+}
+
+.job-title {
+    font-size: medium;
 }
