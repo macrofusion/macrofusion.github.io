@@ -22,6 +22,8 @@
 }
 
 #pagetop {
+    position: absolute;
+    top: 0px;
     width: 100%;
     text-align: center;
     padding: 50% 0;
