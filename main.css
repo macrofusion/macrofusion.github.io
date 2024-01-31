@@ -20,3 +20,10 @@
 .red {
     color: red;
 }
+
+#pagetop {
+    width: 100%;
+    text-align: center;
+    padding: 50% 0;
+    height: 100%
+}
