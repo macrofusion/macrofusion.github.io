@@ -21,6 +21,10 @@
     color: red;
 }
 
+.content {
+    position: relative;
+}
+
 #pagetop {
     position: absolute;
     top: 0px;
