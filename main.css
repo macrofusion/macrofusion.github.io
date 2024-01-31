@@ -65,6 +65,11 @@
     height: 30vw;
     box-sizing: border-box;
     padding: 5%;
+
+}
+
+.division-text {
+    font-size: medium;
 }
 
 .division-logo {
