@@ -12,6 +12,8 @@
 .pageheader,
 .ab-footer {
     background-color: gray;
+    width: 100%;
+    height: fit-content;
 }
 
 * {
