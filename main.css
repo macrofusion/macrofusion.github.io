@@ -85,3 +85,7 @@
 .job-title {
     font-size: medium;
 }
+
+.clickable {
+    cursor: pointer;
+}
